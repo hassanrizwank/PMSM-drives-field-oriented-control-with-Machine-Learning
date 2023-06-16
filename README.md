@@ -1,0 +1,2 @@
+# PMSM-drives-field-oriented-control-with-Machine-Learning
+ A Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm is used to perform correction signals to inner-control loop (current) of the speed controller. The performance gains are supported by numerical simulations carried out in the MATLAB/Simulink environment by implementing both the suggested agent and a conventional PI controller
